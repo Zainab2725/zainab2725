@@ -34,7 +34,7 @@ I am particularly interested in large language models, AI-powered applications, 
 - **Chief Data Officer** — Aptura Tech Solutions
 - **Information Technology Intern** — Sunbeams School System
 - **Intern** — Alkhidmat Foundation Pakistan
-- **Web Development Intern** — National Incubation Center, Hyderabad / MUET
+- **Web Development Intern** — National Incubation Center, MUET
 
 ## Certifications
 
