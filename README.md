@@ -3,7 +3,7 @@
 <h3 align="center">AI Engineer | Machine Learning | Full-Stack AI Development</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/zainab-muhammad-25b86837b/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/zainab-muhammad-25b86837b/">LinkedIn</a> 
   <a href="mailto:z8167444@gmail.com">Email</a>
 </p>
 
